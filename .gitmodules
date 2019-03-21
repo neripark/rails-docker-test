@@ -1,0 +1,3 @@
+[submodule "rails-dockerizer"]
+	path = rails-dockerizer
+	url = git@github.com:readyfor/rails-dockerizer.git
